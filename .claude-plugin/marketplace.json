@@ -1,0 +1,29 @@
+{
+  "name": "claude-marketing-suite",
+  "owner": {
+    "name": "kloudhub-io",
+    "url": "https://github.com/kloudhub-io"
+  },
+  "description": "Marketplace containing the marketing-suite Cowork plugin — generate marketing assets from any product's frontend codebase.",
+  "plugins": [
+    {
+      "name": "marketing-suite",
+      "source": "./",
+      "description": "Generate a complete marketing asset suite — feature demo video, vision film, onboarding slides, Play Store screenshots, feature graphic, welcome card — from any product's frontend codebase.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Koushik"
+      },
+      "keywords": [
+        "marketing",
+        "product-demo",
+        "video",
+        "onboarding",
+        "play-store",
+        "screenshots",
+        "design"
+      ],
+      "license": "MIT"
+    }
+  ]
+}
