@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor swap / backup files
+*.bak
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
